@@ -1,4 +1,4 @@
-# Finance Department’s New Hire Request
+# Finance Department’s Human Resources Analysis
 
 ## Overview
 This project aims to advocate for the allocation of one faculty hire to the Finance Department at the Generic School of Business (GBS) by leveraging data-driven insights and storytelling. With significant growth in student enrollment and emerging program needs, the project provides a compelling case to support resource allocation through quantitative and visual analytics.
