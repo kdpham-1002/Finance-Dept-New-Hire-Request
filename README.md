@@ -1,6 +1,16 @@
 # Finance Department’s Human Resources Analysis
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Objectives](#objectives)
+3. [Key Features](#key-features)
+4. [Tools and Technologies](#tools-and-technologies)
+5. [Data Sources](#data-sources)
+6. [Outcomes](#outcomes)
+
 ## Overview
+YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/kdpham-01002/Finance-Dept-New-Hire-Request/blob/main/reports/Isenberg%20Faculty_Dashboards.pdf) FIRST!
+
 This project aims to advocate for the allocation of one faculty hire to the Finance Department at the Generic School of Business (GBS) by leveraging data-driven insights and storytelling. With significant growth in student enrollment and emerging program needs, the project provides a compelling case to support resource allocation through quantitative and visual analytics.
 
 ## Objectives
