@@ -11,7 +11,7 @@
 ## Overview
 YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/kdpham-01002/Finance-Dept-New-Hire-Request/blob/main/reports/Isenberg%20Faculty_Dashboards.pdf) FIRST!
 
-This project aims to advocate for the allocation of one faculty hire to the Finance Department at the Issenberg School of Management by leveraging data-driven insights and storytelling. With significant growth in student enrollment and emerging program needs, the project provides a compelling case to support resource allocation through quantitative and visual analytics.
+This project aims to advocate for the allocation of one faculty hire to the Finance Department at the Isenberg School of Management by leveraging data-driven insights and storytelling. With significant growth in student enrollment and emerging program needs, the project provides a compelling case to support resource allocation through quantitative and visual analytics.
 
 ## Objectives
 1. **Analyze Enrollment Trends**: Evaluate historical data to highlight a consistent increase in undergraduate and graduate finance student enrollment.
