@@ -1,5 +1,7 @@
 # Finance Department’s Human Resources Analysis
 
+YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/khoapham01002/Finance-Dept-New-Hire-Request/blob/main/reports/Isenberg%20Faculty_Dashboards.pdf) FIRST!
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Objectives](#objectives)
@@ -9,8 +11,6 @@
 6. [Outcomes](#outcomes)
 
 ## Overview
-YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/kdpham-01002/Finance-Dept-New-Hire-Request/blob/main/reports/Isenberg%20Faculty_Dashboards.pdf) FIRST!
-
 This project aims to advocate for the allocation of one faculty hire to the Finance Department at the Isenberg School of Management by leveraging data-driven insights and storytelling. With significant growth in student enrollment and emerging program needs, the project provides a compelling case to support resource allocation through quantitative and visual analytics.
 
 ## Objectives
