@@ -1,6 +1,6 @@
 # Finance Department’s Human Resources Analysis
 
-YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/khoapham01002/Finance-Dept-New-Hire-Request/blob/main/reports/Isenberg%20Faculty_Dashboards.pdf) FIRST!
+YOU CAN CHECK OUT MY [PROJECT REPORT](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request/blob/66601057be7803d83ea783f832e883451ddf1b11/reports/Isenberg%20Faculty_Dashboards.pdf) FIRST!
 
 ## Table of Contents
 1. [Overview](#overview)
